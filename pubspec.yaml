@@ -1,0 +1,64 @@
+name: aplikasi_wisata
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shadowed_image: ^1.0.3
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - assets/Artapark.jpg
+  - assets/Karang Resik.jpg
+  - assets/Mini Mania Lembang.jpg
+  - assets/Nimoland.jpg
+  - assets/Pangandaran.jpg
+  - assets/Rahong.jpg
+  - assets/Rancabuaya.jpg
+  - assets/Rumah pengabdi setan.jpg
+  - assets/Snow park Bandung.jpg
+  - assets/Detail Wisata/Arta 1.jpg
+  - assets/Detail Wisata/Arta 2.jpeg
+  - assets/Detail Wisata/Arta 3.jpeg
+  - assets/Detail Wisata/Bandung 1.jpg
+  - assets/Detail Wisata/Bandung 2.jpg
+  - assets/Detail Wisata/Bandung 3.jpg
+  - assets/Detail Wisata/Mini 1.jpeg
+  - assets/Detail Wisata/Mini 2.jpg
+  - assets/Detail Wisata/Mini 3.jpg
+  - assets/Detail Wisata/Nimo 1.jpg
+  - assets/Detail Wisata/Nimo 2.jpeg
+  - assets/Detail Wisata/Nimo 3.jpg
+  - assets/Detail Wisata/PND 1.jpg
+  - assets/Detail Wisata/PND 2.jpg
+  - assets/Detail Wisata/PND 3.jpg
+  - assets/Detail Wisata/Rahong 1.jpg
+  - assets/Detail Wisata/Rahong 2.jpg
+  - assets/Detail Wisata/Rahong 3.jpeg
+  - assets/Detail Wisata/RCB 1.jpg
+  - assets/Detail Wisata/RCB 2.jpg
+  - assets/Detail Wisata/RCB 3.jpg
+  - assets/Detail Wisata/Rumah PS 1.jpg
+  - assets/Detail Wisata/Rumah PS 2.jpg
+  - assets/Detail Wisata/Rumah PS 3.jpg
+  - assets/Detail Wisata/Santolo 1.jpg
+  - assets/Detail Wisata/Santolo 2.jpg
+  - assets/Detail Wisata/Santolo 3.jpg
+  - assets/Detail Wisata/Tasik 1.jpg
+  - assets/Detail Wisata/Tasik 2.jpg
+  - assets/Detail Wisata/Tasik 3.jpg
